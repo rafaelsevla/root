@@ -7,3 +7,6 @@
 [submodule "mfe1"]
 	path = mfe1
 	url = git@github.com:rafaelsevla/mfe1.git
+[submodule "mfe2"]
+	path = mfe2
+	url = git@github.com:rafaelsevla/mfe2.git
