@@ -1,3 +1,6 @@
 [submodule "shell"]
 	path = shell
 	url = git@github.com:rafaelsevla/shell.git
+[submodule "base"]
+	path = base
+	url = git@github.com:rafaelsevla/base.git
